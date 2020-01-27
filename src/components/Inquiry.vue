@@ -210,6 +210,8 @@ export default {
 }
 
 .form-container {
+  margin-top: 100px;
+
   display: none;
   &.show-form {
     display: block;
